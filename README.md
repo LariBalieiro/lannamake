@@ -3,10 +3,9 @@
 <div style = "display: inline_block"> <br/>
   <img align="center" alt="Lari-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
   <img align="center" alt="Lari-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
-  <img align="center" alt="Lari-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
  </div> <br>
  
- <p>🔴 Projeto com base em estudo de HTML, CSS e JS. Baseado em um sonho de montar uma loja online de revenda de cosmeticos</p>
+ <p>🔴 Projeto com base em estudo de HTML, CSS. Baseado em um sonho de montar uma loja online de revenda de cosmeticos</p>
 
 <div aling="center">
 <img src="https://github.com/user-attachments/assets/593d466d-4766-40b8-9bbe-08f0fad3d530" width = "1000px" heigth="1000px" />
